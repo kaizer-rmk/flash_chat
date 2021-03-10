@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "561567816941",
+    "project_id": "flash-chat-3f25d",
+    "storage_bucket": "flash-chat-3f25d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561567816941:android:d9edc38bf616b8914940e4",
+        "android_client_info": {
+          "package_name": "com.kaizerrmk.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561567816941-jgvg3nmodkkk05mc3cdl2mkd37755e99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdypeOYvZmhHYe83XxQPx04Z-WofwPcWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561567816941-jgvg3nmodkkk05mc3cdl2mkd37755e99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
